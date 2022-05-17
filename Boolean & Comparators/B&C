@@ -1,0 +1,46 @@
+1)Boolean
+--> Can only True or False
+
+Example-1
+a_boolean = True
+the_other_boolean = False
+print(a_boolean)
+print(the_other_boolean)
+
+2)Comparators
+Operator Description
+== Equal to
+> Greater than
+>= Greater than or equal
+< Less than
+<= Less than or equal
+!= Not equal
+
+Example for comparator
+>>> 1 == 2
+False
+>>> 1 > 2
+False
+>>> 1 >= 2
+False
+>>> 1 < 2
+True
+>>> 1 <= 2
+True
+>>> 1 != 2
+True
+
+Example-2
+>>> 37 > 29
+True
+>>> 37 < 40
+True
+>>> 37 > 29 and 37 < 40
+True
+>>>
+>>> 37 > 29 or 37 < 40
+True
+>>> 37 > 29
+True
+>>> not
+
